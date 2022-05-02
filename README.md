@@ -3,14 +3,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">ERP - 進銷存系統</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    為一家鋼鐵工廠諮詢其需求並為其設計ERP系統!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
