@@ -3,17 +3,15 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">ERP - 進銷存系統</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    諮詢鋼鐵廠需求 並為其建置ERP系統
+    <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
   </p>
 </div>
+
 
 
 <!-- TABLE OF CONTENTS -->
@@ -46,8 +44,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+### 系統功能流程圖![1](https://user-images.githubusercontent.com/38940305/166245890-866d692d-b831-429f-9bc3-a2bf1d18d8f3.png)![2](https://user-images.githubusercontent.com/38940305/166245899-88028b1d-9eec-4825-80bb-1691f92a32b5.png)
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
