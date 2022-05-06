@@ -7,21 +7,8 @@
 
   <p align="center">
     諮詢鋼鐵廠需求 並為其建置ERP系統
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
   </p>
 </div>
-
-
-## Roadmap
-- [x] System Design
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] English
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 ## About The Project
 * Since the current records are all on paper, the only way to check the inventory is to estimate by experience, or to find paper data to calculate slowly, which lacks efficiency and accuracy, and cannot tell the customer how many finished goods can be shipped or how many raw materials have to be imported at the first time, so we use the system to solve the problem. 
@@ -51,3 +38,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 ![圖片7](https://user-images.githubusercontent.com/38940305/166253321-57dc8435-0f38-456a-8f28-feb4589d4d4f.png)
 ![圖片1](https://user-images.githubusercontent.com/38940305/166254481-db24ec25-53a8-4302-8fe0-2f149f208812.png)
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+## Roadmap
+- [x] System Design
+- [x] Add back to top links
