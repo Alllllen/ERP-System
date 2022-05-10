@@ -15,13 +15,13 @@
 * Since only the initial raw material and the final product are measured during the processing period, not all the processes are clearly measured, so if there is any consumption during the process, it may lead to inconsistency in the incoming and outgoing quantities. <Solution> We will suggest them to record the weight of all processes clearly, so that we can know the amount of loss caused by each process.
 
   
-### Built With
+<!-- ### Built With
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [Next.js](https://nextjs.org/)
 * [React.js](https://reactjs.org/)
 * [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [JQuery](https://jquery.com) -->
 
 ### System Function Flow Chart
 ![圖片3](https://user-images.githubusercontent.com/38940305/166251839-786e010d-4cc6-4fa5-813c-3003e32bf60d.png)
